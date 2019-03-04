@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/leaveday_profile_item"
+        android:title="@string/profile"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/leaveday_todo_item"
+        android:title="@string/todo"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/leaveday_attendance_item"
+        android:title="@string/attendent"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/leaveday_notice_item"
+        android:title="@string/notice_board"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/leaveday_holiday_item"
+        android:title="@string/holi_days"
+        app:showAsAction="never"
+        />
+</menu>

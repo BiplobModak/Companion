@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Companion</string>
+    <string name="log_in">log in</string>
+    <string name="profile">Profile</string>
+    <string name="todo">Todo</string>
+    <string name="notice_board">Notice Board</string>
+    <string name="clender">Clender</string>
+    <string name="calender">Calender</string>
+    <string name="attendent">Attendance</string>
+    <string name="give_your_attendence_here">Give your attendance here</string>
+    <string name="edit_your_profile_here">Edit your profile here</string>
+    <string name="holi_days">Holy days</string>
+    <string name="leave_days">Leave days</string>
+    <string name="up_to_date">Up to Date</string>
+    <string name="passed">Passed</string>
+    <string name="date">Date</string>
+    <string name="to_do">To do</string>
+    <string name="done">Done</string>
+    <string name="status">Status</string>
+    <string name="settings">Settings</string>
+    <string name="menu_list">menu_list</string>
+    <string name="nb_tasks">nb Tasks</string>
+    <string name="categories">Categories</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="_16_30">16:30</string>
+    <string name="_21_03">21/03</string>
+    <string name="_2017">2017</string>
+    <string name="title">Title</string>
+    <string name="are_you_sure_you_want_to_delete_that_task">Are you sure you want to delete that Task ?</string>
+    <string name="save">Save</string>
+    <string name="categories_nb">Categories (nb)</string>
+    <string name="dash_board">Dash board</string>
+    <string name="attendance_history">Attendance history</string>
+    <string name="current_time">Current Time: </string>
+    <string name="sign_in">Sign in</string>
+    <string name="current_state">Current state</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="attendance_current_time">Attendance Current Date and Time</string>
+    <string name="signin_time">Signin Time</string>
+    <string name="edit_time">Edit time</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/attendance_history_item"
+        android:icon="@drawable/att_history"
+        android:title="@string/attendance_history"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/attendance_profile_item"
+        android:title="@string/profile"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/attendance_todo_item"
+        android:title="@string/todo"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/attendance_notice_item"
+        android:title="@string/notice_board"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/attendance_leaveday_item"
+        android:title="@string/leave_days"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/attendance_holiday_item"
+        android:title="@string/holi_days"
+        app:showAsAction="never"
+        />
+</menu>
